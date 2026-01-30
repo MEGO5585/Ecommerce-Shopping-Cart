@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "V4prJ9n2QDM=",
+  "dgSpecHash": "LFmxC8OQe0Y=",
   "success": true,
   "projectFilePath": "F:\\Ecommerce\\ShoppingCartInfrastructure\\ShoppingCartInfrastructure.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Mego\\.nuget\\packages\\microsoft.extensions.options\\10.0.2\\microsoft.extensions.options.10.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Options will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "F:\\Ecommerce\\ShoppingCartInfrastructure\\ShoppingCartInfrastructure.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Ecommerce\\ShoppingCartInfrastructure\\ShoppingCartInfrastructure.csproj",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
