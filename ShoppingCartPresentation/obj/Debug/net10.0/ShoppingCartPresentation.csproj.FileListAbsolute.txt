@@ -1,0 +1,13 @@
+F:\Ecommerce\ShoppingCartPresentation\bin\Debug\net10.0\ShoppingCartPresentation.deps.json
+F:\Ecommerce\ShoppingCartPresentation\bin\Debug\net10.0\ShoppingCartPresentation.dll
+F:\Ecommerce\ShoppingCartPresentation\bin\Debug\net10.0\ShoppingCartPresentation.pdb
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.csproj.AssemblyReference.cache
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.AssemblyInfoInputs.cache
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.AssemblyInfo.cs
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.csproj.CoreCompileInputs.cache
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.sourcelink.json
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.dll
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\refint\ShoppingCartPresentation.dll
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ShoppingCartPresentation.pdb
+F:\Ecommerce\ShoppingCartPresentation\obj\Debug\net10.0\ref\ShoppingCartPresentation.dll
