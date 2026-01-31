@@ -1,6 +1,7 @@
 using System;
 using System.Reflection;
 using System.Security.Cryptography.X509Certificates;
+using ShoppingCartInfrastructure.Options;
 using ShoppingCartPresentation;
 
 namespace ShoppingCartApp.ExtentionsMethods;
@@ -16,5 +17,9 @@ public static class RegisterControllerExtention
         });
         return services;
     }
-
+    public static IServiceCollection RegisterOptions(this IServiceCollection services)
+    {
+        services.ConfigureOptions<DatabaseOptionsSetup>();
+        return services;
+    }
 }
