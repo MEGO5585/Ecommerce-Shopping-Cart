@@ -18,6 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ShoppingCartApplication\ShoppingCartApplication.csproj" />
+    <ProjectReference Include="..\ShoppingCartDomain\ShoppingCartDomain.csproj" />
+    <ProjectReference Include="..\ShoppingCartInfrastructure\ShoppingCartInfrastructure.csproj" />
+    <ProjectReference Include="..\ShoppingCartPersistence\ShoppingCartPersistence.csproj" />
     <ProjectReference Include="..\ShoppingCartPresentation\ShoppingCartPresentation.csproj" />
   </ItemGroup>
 
